@@ -15,7 +15,7 @@ This is a backend service for Worko, a platform to help job seekers request refe
 
 1. Clone the repository
     ```bash
-    git clone https://github.com/your-repo/worko-backend.git
+    git clone https://github.com/waduzzaman/worko-backend
     cd worko-backend
     ```
 
